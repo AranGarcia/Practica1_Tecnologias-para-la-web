@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Axiforma Black';
+    src: url('axiforma-black-webfont.eot');
+    src: url('axiforma-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('axiforma-black-webfont.woff2') format('woff2'),
+         url('axiforma-black-webfont.woff') format('woff'),
+         url('axiforma-black-webfont.ttf') format('truetype'),
+         url('axiforma-black-webfont.svg#axiformablack') format('svg');
+}

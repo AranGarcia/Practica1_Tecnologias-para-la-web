@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Axiforma ExtraBold';
+    src: url('axiforma-extrabold-webfont.eot');
+    src: url('axiforma-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('axiforma-extrabold-webfont.woff2') format('woff2'),
+         url('axiforma-extrabold-webfont.woff') format('woff'),
+         url('axiforma-extrabold-webfont.ttf') format('truetype'),
+         url('axiforma-extrabold-webfont.svg#axiformaextrabold') format('svg');
+}
