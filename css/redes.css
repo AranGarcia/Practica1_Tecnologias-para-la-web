@@ -1,0 +1,32 @@
+#facebook-escom{
+    background-color: #3b5998;
+    height: 90px;
+}
+
+#facebook-ipn{
+    background-color:#800000;
+}
+
+.face-blanco{
+    color: white;
+    
+}
+
+.centrado{
+    text-align: center;
+    align: center;
+}
+
+.derecha{
+    text-align: right;
+}
+
+.izquierda{
+    align: left;
+}
+
+/* Columnas */
+.col-6{width : 50%; align:center}
+[class *= "col-"]{position: relative; float : left; padding : 10px;}
+* { box-sizing : border-box;}
+.fila:after {content:""; clear:both; display:table;}

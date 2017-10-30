@@ -1,0 +1,27 @@
+.barra-nav{
+    width: 100%;
+    height: 70px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(34, 81, 143, 0.699);
+}
+
+.barra-nav a{
+    text-decoration: none;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 15px;
+    color: white;
+}
+
+.barra-nav a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.barra-nav a.active{
+    background-color: #4CAF50;
+    color: white;
+}
